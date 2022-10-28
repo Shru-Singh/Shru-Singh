@@ -1,13 +1,12 @@
 <div>
-<h1 align="center">Hi 👋, I'm Rishav Raj Kumar</h1>
+<h1 align="center">Hi 👋, I'm Shruti Singh</h1>
 <h3 align="center">A passionate Web developer and UI/UX designer from India.</h3>
   
-<p align="center">Visit me at <b><a href="https://rishavrajkumar.vercel.app">rishavrajkumar.vercel.app</a></b></p>
-<p align="center">Ask me about <b>HTML/CSS, ReactJs, Django, UI/UX design, Graphic Design</b></p>
-<p align="center">Reach me at <b>rajkumarrishav4101@gmail.com</b></p>
+<p align="center">Ask me about <b>HTML/CSS, ReactJs, UI/UX design, Graphic Design</b></p>
+<p align="center">Reach me at <b>gshrutisingh@gmail.com</b></p>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav4101" alt="rishav4101"/></a> </p> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rishav4101&label=Profile%20views&color=0e75b6&style=flat" alt="rishav4101" /> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shru-Singh" alt="Shru-Singh"/></a> </p> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shru-Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Shru-Singh" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
